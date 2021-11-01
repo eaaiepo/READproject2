@@ -1,0 +1,538 @@
+.mediaViewInfo {
+	--web-view-name: Landing page verse 2;
+	--web-view-id: Landing_page_verse_2;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Landing_page_verse_2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Landing_page_verse_2 {
+	position: absolute;
+	width: 1920px;
+	height: 3432px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Landing page verse 2;
+	--web-view-id: Landing_page_verse_2;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_2 {
+	fill: rgba(220,206,214,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 115px;
+	left: 0px;
+	top: 3319px;
+}
+#AdobeStock_288462854 {
+	position: absolute;
+	width: 1920px;
+	height: 393px;
+	left: 0px;
+	top: 115px;
+	overflow: visible;
+}
+#Rectangle_5 {
+	opacity: 0.4;
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 398px;
+	left: 0px;
+	top: 112px;
+}
+#Rectangle_3 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 480px;
+	height: 63px;
+	left: 720px;
+	top: 383px;
+}
+#Rectangle_4 {
+	position: absolute;
+	width: 44px;
+	height: 44px;
+	left: 1136px;
+	top: 393px;
+	overflow: visible;
+}
+#READ__Lorem_ipsum_dolor_sit_am {
+	left: 704px;
+	top: 165px;
+	position: absolute;
+	overflow: visible;
+	width: 513px;
+	height: 138px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_39 {
+	fill: rgba(255,245,251,1);
+}
+.Rectangle_39 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1518px;
+	height: 482px;
+	left: 224px;
+	top: 1127px;
+}
+#Lorem_ipsum_dolor_sit_amet_con {
+	left: 763px;
+	top: 1254px;
+	position: absolute;
+	overflow: visible;
+	width: 898px;
+	height: 186px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#DIALOGIC_READING {
+	left: 763px;
+	top: 1195px;
+	position: absolute;
+	overflow: visible;
+	width: 458px;
+	height: 42px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_40 {
+	fill: rgba(245,195,82,1);
+}
+.Rectangle_40 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 248px;
+	height: 90px;
+	left: 1371px;
+	top: 1463px;
+}
+#Ls_mere {
+	left: 1428px;
+	top: 1484px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_41 {
+	fill: rgba(255,245,251,1);
+}
+.Rectangle_41 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1518px;
+	height: 482px;
+	left: 226px;
+	top: 1668px;
+}
+#Lorem_ipsum_dolor_sit_amet_con_x {
+	left: 765px;
+	top: 1795px;
+	position: absolute;
+	overflow: visible;
+	width: 898px;
+	height: 186px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#WORD_KNOWLEDGE_AND_WRITING {
+	left: 765px;
+	top: 1736px;
+	position: absolute;
+	overflow: visible;
+	width: 572px;
+	height: 42px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_42 {
+	fill: rgba(245,195,82,1);
+}
+.Rectangle_42 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 248px;
+	height: 90px;
+	left: 1373px;
+	top: 2004px;
+}
+#Rectangle_43 {
+	fill: rgba(255,245,251,1);
+}
+.Rectangle_43 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1518px;
+	height: 482px;
+	left: 229px;
+	top: 2188px;
+}
+#Lorem_ipsum_dolor_sit_amet_con_ {
+	left: 768px;
+	top: 2315px;
+	position: absolute;
+	overflow: visible;
+	width: 898px;
+	height: 186px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#PICKING_THE_RIGHT_BOOK {
+	left: 768px;
+	top: 2256px;
+	position: absolute;
+	overflow: visible;
+	width: 458px;
+	height: 42px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_44 {
+	fill: rgba(245,195,82,1);
+}
+.Rectangle_44 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 248px;
+	height: 90px;
+	left: 1376px;
+	top: 2524px;
+}
+#Ls_mere_ {
+	left: 1430px;
+	top: 2025px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#Ls_mere_ba {
+	left: 1430px;
+	top: 2545px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#AdobeStock_164874881 {
+	position: absolute;
+	width: 453px;
+	height: 310px;
+	left: 299px;
+	top: 1736px;
+	overflow: visible;
+}
+#AdobeStock_366480735 {
+	position: absolute;
+	width: 488px;
+	height: 310px;
+	left: 215px;
+	top: 2256px;
+	overflow: visible;
+}
+#Rectangle_45 {
+	fill: rgba(255,245,251,1);
+}
+.Rectangle_45 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1518px;
+	height: 482px;
+	left: 229px;
+	top: 2708px;
+}
+#Lorem_ipsum_dolor_sit_amet_con_ba {
+	left: 768px;
+	top: 2835px;
+	position: absolute;
+	overflow: visible;
+	width: 898px;
+	height: 186px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#READING_PROBLEMS {
+	left: 768px;
+	top: 2776px;
+	position: absolute;
+	overflow: visible;
+	width: 458px;
+	height: 42px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_46 {
+	fill: rgba(245,195,82,1);
+}
+.Rectangle_46 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 248px;
+	height: 90px;
+	left: 1376px;
+	top: 3044px;
+}
+#Ls_mere_bc {
+	left: 1430px;
+	top: 3065px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#AdobeStock_296162223 {
+	position: absolute;
+	width: 403px;
+	height: 310px;
+	left: 299px;
+	top: 2776px;
+	overflow: visible;
+}
+#Rectangle_47 {
+	fill: rgba(255,245,251,1);
+}
+.Rectangle_47 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1518px;
+	height: 482px;
+	left: 229px;
+	top: 588px;
+}
+#Lorem_ipsum_dolor_sit_amet_con_bf {
+	left: 763px;
+	top: 724px;
+	position: absolute;
+	overflow: visible;
+	width: 898px;
+	height: 186px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#IMPORTANCE {
+	left: 763px;
+	top: 665px;
+	position: absolute;
+	overflow: visible;
+	width: 458px;
+	height: 42px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_48 {
+	fill: rgba(245,195,82,1);
+}
+.Rectangle_48 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 248px;
+	height: 90px;
+	left: 1371px;
+	top: 933px;
+	transition: all 1s ease-in-out;
+	--web-animation: fadein 1s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: Importance.html;
+	cursor: pointer;
+}
+#Ls_mere_bi {
+	left: 1428px;
+	top: 954px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#AdobeStock_175282681_1 {
+	position: absolute;
+	width: 403px;
+	height: 310px;
+	left: 299px;
+	top: 1195px;
+	overflow: visible;
+}
+#AdobeStock_322484593 {
+	position: absolute;
+	width: 510px;
+	height: 310px;
+	left: 192px;
+	top: 665px;
+	overflow: visible;
+}
+#Group_1 {
+	position: absolute;
+	width: 1920px;
+	height: 115px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	opacity: 0.7;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 115px;
+	left: 0px;
+	top: 0px;
+}
+#logo {
+	position: absolute;
+	width: 84px;
+	height: 84px;
+	left: 52px;
+	top: 16px;
+	overflow: visible;
+}
+#Rectangle_28 {
+	fill: rgba(245,195,82,1);
+}
+.Rectangle_28 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 224px;
+	height: 78px;
+	left: 1661px;
+	top: 28px;
+	transition: all 1s ease-in-out;
+	--web-animation: fadein 1s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: Library.html;
+	cursor: pointer;
+}
+#n_Library {
+	left: 1714px;
+	top: 42px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
